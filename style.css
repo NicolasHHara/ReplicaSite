@@ -1,0 +1,39 @@
+.container{
+    background-color: aliceblue;
+}
+header{
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+main{
+    margin-top: 50px;
+    margin-left: 1%;
+    width: 98%;
+    height: 500px;
+    background-color: bisque;
+}
+
+.div1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+}
+
+.HeaderBotao{
+    float: left;
+    border: none;
+    margin-top: 15px;
+
+}
+
+.HeaderBotao1{
+    margin-top: 15px;
+    margin-left: 780px;
+    float: left;
+    border: none;
+
+}
+.MenuHamburguer{
+    border: none;
+    margin-top: 15px;
+}
